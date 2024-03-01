@@ -1,4 +1,8 @@
 # The Newsbox, a blog designed to share stories
+
+> python3 -m venv venv
+> source venv/bin/activate
+
 (Developer: Paul Thomas O'Riordan)
 
 [View live site](https://.herokuapp.com/)
