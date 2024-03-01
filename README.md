@@ -1,3 +1,5 @@
+## Require Lot of effort dont waste ur time here .................
+
 # The Newsbox, a blog designed to share stories
 
 > python3 -m venv venv
